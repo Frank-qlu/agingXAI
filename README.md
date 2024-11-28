@@ -135,14 +135,3 @@ edgesExaction.ipynb
 ## Example Demo
 
 [Guided Tutorial](example/tutorial.ipynb)
-
-## Cite agingXAI
-If you find agingXAI useful for your research, please consider citing the following paper:
-```
-@article{
-  title={An explainable AI analysis of single-cell and epigenetic data reveals novel molecular insights in aging},
-  author={Zhi-Peng Li, Zhaozhen Du, De-Shuang Huang, and Andrew E Teschendorff},
-  journal={Submitted to Nature Computational Science},
-  year={2024}
-}
-```
